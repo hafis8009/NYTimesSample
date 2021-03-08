@@ -1,0 +1,1268 @@
+{
+    "model":{
+   "status":"OK",
+   "copyright":"Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+   "num_results":20,
+   "results":[
+      {
+         "uri":"nyt://article/c72995af-fc7a-5106-97af-288f2727f67e",
+         "url":"https://www.nytimes.com/2021/03/04/nyregion/cuomo-nursing-home-deaths.html",
+         "id":100000007629875,
+         "asset_id":100000007629875,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-06 08:08:08",
+         "section":"New York",
+         "subsection":"",
+         "nytdsection":"new york",
+         "adx_keywords":"Coronavirus (2019-nCoV);Deaths (Fatalities);Elder Care;Disease Rates;States (US);Nursing Homes;Cuomo, Andrew M;DeRosa, Melissa;Health Department (NYS);New York State",
+         "column":null,
+         "byline":"By J. David Goodman and Danny Hakim",
+         "type":"Article",
+         "title":"Cuomo Aides Rewrote Nursing Home Report to Hide Higher Death Toll",
+         "abstract":"The intervention was the earliest action yet known in an effort by Gov. Andrew M. Cuomo that concealed how many nursing home residents died in the pandemic.",
+         "des_facet":[
+            "Coronavirus (2019-nCoV)",
+            "Deaths (Fatalities)",
+            "Elder Care",
+            "Disease Rates",
+            "States (US)",
+            "Nursing Homes"
+         ],
+         "org_facet":[
+            "Health Department (NYS)"
+         ],
+         "per_facet":[
+            "Cuomo, Andrew M",
+            "DeRosa, Melissa"
+         ],
+         "geo_facet":[
+            "New York State"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gov. Andrew M. Cuomo of New York has been under increasing political pressure for obscuring the full scope of nursing home deaths in the pandemic.",
+               "copyright":"Cindy Schultz for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/nyregion/05nycuomo-nursinghomes-print1/00nycuomo-nursinghomes1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/nyregion/05nycuomo-nursinghomes-print1/00nycuomo-nursinghomes1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/nyregion/05nycuomo-nursinghomes-print1/00nycuomo-nursinghomes1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/1313fcdf-2f8d-5dcd-b6eb-32406fe38ffd",
+         "url":"https://www.nytimes.com/2021/03/04/world/europe/earthquakes-eruption-iceland.html",
+         "id":100000007636005,
+         "asset_id":100000007636005,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-04 15:38:02",
+         "section":"World",
+         "subsection":"Europe",
+         "nytdsection":"world",
+         "adx_keywords":"Volcanoes;Earthquakes;Reykjavik (Iceland);Iceland",
+         "column":null,
+         "byline":"By Elian Peltier",
+         "type":"Article",
+         "title":"In Iceland, 18,000 Earthquakes Over Days Signal Possible Eruption on the Horizon",
+         "abstract":"The earthquake swarm is the culmination of more than a year of intense seismic activity. It could also herald decades of intermittent volcanic eruptions.",
+         "des_facet":[
+            "Volcanoes",
+            "Earthquakes"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Reykjavik (Iceland)",
+            "Iceland"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Bridge Between Continents, a footbridge linking the Eurasian and North American tectonic plates, near Grindavik, Iceland. The residents of Gridavik have been on alert for potential volcanic activity.",
+               "copyright":"Halldor Kolbeins/Agence France-Presse — Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04iceland-1/04iceland-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04iceland-1/merlin_184516050_5e565fe7-1644-4571-b629-554df8a78b9a-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04iceland-1/merlin_184516050_5e565fe7-1644-4571-b629-554df8a78b9a-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/53e12370-ce51-5f46-83f6-3ad51144d13f",
+         "url":"https://www.nytimes.com/2021/03/04/world/oprahs-harry-meghan-accusations-bullying-palace-staff.html",
+         "id":100000007636710,
+         "asset_id":100000007636710,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-05 13:10:42",
+         "section":"World",
+         "subsection":"",
+         "nytdsection":"world",
+         "adx_keywords":"Royal Families;Markle, Meghan;Harry, Duke of Sussex;Winfrey, Oprah;Buckingham Palace",
+         "column":null,
+         "byline":"By Mark Landler",
+         "type":"Article",
+         "title":"Before Oprah’s Interview With Harry and Meghan, Royal Accusations Fly",
+         "abstract":"CBS is releasing tantalizing video clips of the couple, while scalding allegations are coming from Buckingham Palace staff members.",
+         "des_facet":[
+            "Royal Families"
+         ],
+         "org_facet":[
+            "Buckingham Palace"
+         ],
+         "per_facet":[
+            "Markle, Meghan",
+            "Harry, Duke of Sussex",
+            "Winfrey, Oprah"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Prince Harry and his wife, Meghan, with Oprah Winfrey, during an interview that is set to air in the United States on Sunday night.",
+               "copyright":"Joe Pugliese/Harpo Productions, via Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04royals-1/04royals-1-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04royals-1/04royals-1-mediumThreeByTwo210-v3.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/world/04royals-1/04royals-1-mediumThreeByTwo440-v3.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/1bd61006-225a-5b03-afa9-ba33984f67d4",
+         "url":"https://www.nytimes.com/2021/03/05/health/virus-oregon-variant.html",
+         "id":100000007636665,
+         "asset_id":100000007636665,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-06 13:49:43",
+         "section":"Health",
+         "subsection":"",
+         "nytdsection":"health",
+         "adx_keywords":"Coronavirus (2019-nCoV);Disease Rates;Vaccination and Immunization;Research;Antibodies;your-feed-science;Nature (Journal);Oregon;Brazil;Great Britain;South Africa;United States",
+         "column":null,
+         "byline":"By Apoorva Mandavilli",
+         "type":"Article",
+         "title":"In Oregon, Scientists Find a Virus Variant With a Worrying Mutation",
+         "abstract":"In a single sample, geneticists discovered a version of the coronavirus first identified in Britain with a mutation originally reported in South Africa.",
+         "des_facet":[
+            "Coronavirus (2019-nCoV)",
+            "Disease Rates",
+            "Vaccination and Immunization",
+            "Research",
+            "Antibodies",
+            "your-feed-science"
+         ],
+         "org_facet":[
+            "Nature (Journal)"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Oregon",
+            "Brazil",
+            "Great Britain",
+            "South Africa",
+            "United States"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Coronavirus testing at the Virginia Garcia clinic in Hillsboro, Ore., last year. A variant found in Oregon may have evolved with a mutation that blunts the body’s immune response.",
+               "copyright":"Ruth Fremson/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-OREGON1/04VIRUS-OREGON1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-OREGON1/04VIRUS-OREGON1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-OREGON1/04VIRUS-OREGON1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/dc60e533-b3eb-50ab-a815-58f0aef990b5",
+         "url":"https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+         "id":100000007637727,
+         "asset_id":100000007637727,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-06 12:12:32",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Storming of the US Capitol (Jan, 2021);Treason and Sedition;Right-Wing Extremism and Alt-Right;United States Politics and Government;Stone, Roger J Jr;Trump, Donald J;Proud Boys;Oath Keepers;Federal Bureau of Investigation",
+         "column":null,
+         "byline":"By Katie Benner, Alan Feuer and Adam Goldman",
+         "type":"Article",
+         "title":"F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
+         "abstract":"A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
+         "des_facet":[
+            "Storming of the US Capitol (Jan, 2021)",
+            "Treason and Sedition",
+            "Right-Wing Extremism and Alt-Right",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "Proud Boys",
+            "Oath Keepers",
+            "Federal Bureau of Investigation"
+         ],
+         "per_facet":[
+            "Stone, Roger J Jr",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Donald J. Trump outside the Capitol during the mob attack on Jan. 6.",
+               "copyright":"Kenny Holston for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/d0db90af-b679-5f66-a95c-14ec781590fe",
+         "url":"https://www.nytimes.com/2021/03/04/books/dr-seuss-books.html",
+         "id":100000007634025,
+         "asset_id":100000007634025,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-05 00:03:38",
+         "section":"Books",
+         "subsection":"",
+         "nytdsection":"books",
+         "adx_keywords":"Books and Literature;Writing and Writers;Cartoons and Cartoonists;Discrimination;Race and Ethnicity;Anti-Semitism;Libraries and Librarians;Minorities;Book Trade and Publishing;Geisel, Theodor Seuss;Dr Seuss Enterprises",
+         "column":null,
+         "byline":"By Alexandra Alter and Elizabeth A. Harris",
+         "type":"Article",
+         "title":"Dr. Seuss Books Are Pulled, and a ‘Cancel Culture’ Controversy Erupts",
+         "abstract":"The beloved author’s most famous books, like “Green Eggs and Ham,” were untouched, but his estate’s decision nevertheless prompted a backlash and raised questions about what should be preserved as part of the cultural record.",
+         "des_facet":[
+            "Books and Literature",
+            "Writing and Writers",
+            "Cartoons and Cartoonists",
+            "Discrimination",
+            "Race and Ethnicity",
+            "Anti-Semitism",
+            "Libraries and Librarians",
+            "Minorities",
+            "Book Trade and Publishing"
+         ],
+         "org_facet":[
+            "Dr Seuss Enterprises"
+         ],
+         "per_facet":[
+            "Geisel, Theodor Seuss"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“If I Ran the Zoo,” “And to Think That I Saw It on Mulberry Street,” “On Beyond Zebra!” and “McElligot’s Pool” were among the six Dr. Seuss books that his estate said “portray people in ways that are hurtful and wrong.”",
+               "copyright":"Christopher Dolan/The Times-Tribune, via Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/books/03DRSEUSS1/merlin_184489683_a8a49afa-aabb-4531-870d-481f9950739d-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/books/03DRSEUSS1/merlin_184489683_a8a49afa-aabb-4531-870d-481f9950739d-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/books/03DRSEUSS1/merlin_184489683_a8a49afa-aabb-4531-870d-481f9950739d-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/cf182413-76ab-52fc-9a9d-6fadb5147b42",
+         "url":"https://www.nytimes.com/2021/03/04/us/politics/stimulus-senate.html",
+         "id":100000007636709,
+         "asset_id":100000007636709,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-06 14:13:53",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Stimulus (Economic);Coronavirus (2019-nCoV);Law and Legislation;United States Politics and Government;Johnson, Ron (1955- );Biden, Joseph R Jr;Senate;Wisconsin",
+         "column":null,
+         "byline":"By Emily Cochrane",
+         "type":"Article",
+         "title":"Action on Stimulus Bill Halts as Senate Clerks Read All 628 Pages Aloud",
+         "abstract":"Senator Ron Johnson delayed proceedings on the nearly $2 trillion relief package by demanding that the legislative clerks recite the plan word for word.",
+         "des_facet":[
+            "Stimulus (Economic)",
+            "Coronavirus (2019-nCoV)",
+            "Law and Legislation",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "Senate"
+         ],
+         "per_facet":[
+            "Johnson, Ron (1955- )",
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            "Wisconsin"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The maneuver by Senator Ron Johnson, Republican of Wisconsin, was unlikely to change any minds about the sweeping pandemic aid plan.",
+               "copyright":"Anna Moneymaker for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04dc-clerks/merlin_184539954_6b6450a4-df2b-4621-9685-80635a7aab32-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04dc-clerks/merlin_184539954_6b6450a4-df2b-4621-9685-80635a7aab32-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04dc-clerks/merlin_184539954_6b6450a4-df2b-4621-9685-80635a7aab32-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/0e3ba8f8-01b3-5551-8b1b-0c205ea3cc51",
+         "url":"https://www.nytimes.com/2021/03/04/us/richard-barnett-pelosi-tantrum.html",
+         "id":100000007636500,
+         "asset_id":100000007636500,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-04 12:47:37",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"United States Politics and Government;Storming of the US Capitol (Jan, 2021);Barnett, Richard (1960- );Washington (DC)",
+         "column":null,
+         "byline":"By Alan Feuer",
+         "type":"Article",
+         "title":"The man who put his feet up on a desk in Pelosi’s office during the Capitol riot throws a tantrum in court.",
+         "abstract":"Richard Barnett yelled at the judge and his own lawyers that it wasn’t “fair” that he was still in jail weeks after his arrest.",
+         "des_facet":[
+            "United States Politics and Government",
+            "Storming of the US Capitol (Jan, 2021)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Barnett, Richard (1960- )"
+         ],
+         "geo_facet":[
+            "Washington (DC)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Richard Barnett of Gravette, Ark., posed for photographs while sitting at a desk in Speaker Nancy Pelosi’s office during the siege at the Capitol.",
+               "copyright":"Jim Lo Scalzo/EPA, via Shutterstock",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04new-washington-briefing-barnett/merlin_182056404_17fb14d1-410b-4a64-baa2-cd5b1acc46fa-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04new-washington-briefing-barnett/merlin_182056404_17fb14d1-410b-4a64-baa2-cd5b1acc46fa-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/politics/04new-washington-briefing-barnett/merlin_182056404_17fb14d1-410b-4a64-baa2-cd5b1acc46fa-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/18514525-ce8b-5a17-aa68-b33f197aef9b",
+         "url":"https://www.nytimes.com/2021/03/06/us/politics/biden-stimulus-plan.html",
+         "id":100000007635590,
+         "asset_id":100000007635590,
+         "source":"New York Times",
+         "published_date":"2021-03-06",
+         "updated":"2021-03-06 15:58:45",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"United States Politics and Government;United States Economy;Coronavirus (2019-nCoV);Stimulus (Economic);Coronavirus Aid, Relief, and Economic Security Act (2020);Biden, Joseph R Jr;Schumer, Charles E;Democratic Party;Republican Party;House of Representatives;Senate",
+         "column":null,
+         "byline":"By Emily Cochrane",
+         "type":"Article",
+         "title":"Divided Senate Passes Biden’s Pandemic Aid Plan",
+         "abstract":"The chamber approved the package after a grueling marathon of amendment votes and last-ditch negotiations. The measure must now clear the House a second time.",
+         "des_facet":[
+            "United States Politics and Government",
+            "United States Economy",
+            "Coronavirus (2019-nCoV)",
+            "Stimulus (Economic)",
+            "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+         ],
+         "org_facet":[
+            "Democratic Party",
+            "Republican Party",
+            "House of Representatives",
+            "Senate"
+         ],
+         "per_facet":[
+            "Biden, Joseph R Jr",
+            "Schumer, Charles E"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Chuck Schumer, the majority leader, celebrating the package of the stimulus bill on Saturday. The Senate approved the package 50 to 49, with one Republican absent.",
+               "copyright":"Erin Schaff/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/us/politics/07dc-stimulus-schumer-print1/merlin_184668711_6ba4ddbc-ab1f-48e3-afa2-6b3c1d5adc42-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/us/politics/07dc-stimulus-schumer-print1/merlin_184668711_6ba4ddbc-ab1f-48e3-afa2-6b3c1d5adc42-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/us/politics/07dc-stimulus-schumer-print1/merlin_184668711_6ba4ddbc-ab1f-48e3-afa2-6b3c1d5adc42-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/c5c3ba63-1248-5eb1-ac78-afbffebdf4f0",
+         "url":"https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.html",
+         "id":100000007637842,
+         "asset_id":100000007637842,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-05 08:58:59",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Storming of the US Capitol (Jan, 2021);United States Politics and Government;Trump, Donald J;Klein, Federico G;State Department",
+         "column":null,
+         "byline":"By Katie Benner",
+         "type":"Article",
+         "title":"A midlevel member of the Trump State Dept. has been arrested on charges related to the Capitol attack.",
+         "abstract":"Federico G. Klein is the first member of the Trump administration to face criminal charges in connection with the storming of the Capitol.",
+         "des_facet":[
+            "Storming of the US Capitol (Jan, 2021)",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "State Department"
+         ],
+         "per_facet":[
+            "Trump, Donald J",
+            "Klein, Federico G"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federico G. Klein was included in a poster seeking information on several people seen in the crowd that stormed the Capitol.",
+               "copyright":"FBI",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/04/world/04new-washington-briefing-fbi/04new-washington-briefing-fbi-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/04/world/04new-washington-briefing-fbi/04new-washington-briefing-fbi-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/04/world/04new-washington-briefing-fbi/04new-washington-briefing-fbi-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/caab0833-9c20-512a-ae70-57b5274f4aa1",
+         "url":"https://www.nytimes.com/2021/03/03/world/americas/brazil-covid-variant.html",
+         "id":100000007632375,
+         "asset_id":100000007632375,
+         "source":"New York Times",
+         "published_date":"2021-03-03",
+         "updated":"2021-03-04 10:00:58",
+         "section":"World",
+         "subsection":"Americas",
+         "nytdsection":"world",
+         "adx_keywords":"Coronavirus (2019-nCoV);Disease Rates;Deaths (Fatalities);Vaccination and Immunization;Politics and Government;Bolsonaro, Jair (1955- );Brazil;Manaus (Brazil)",
+         "column":null,
+         "byline":"By Manuela Andreoni, Ernesto Londoño and Letícia Casado",
+         "type":"Article",
+         "title":"Brazil’s Covid Crisis Is a Warning to the Whole World, Scientists Say",
+         "abstract":"Brazil is seeing a record number of deaths, and the spread of a more contagious coronavirus variant that may cause reinfection.",
+         "des_facet":[
+            "Coronavirus (2019-nCoV)",
+            "Disease Rates",
+            "Deaths (Fatalities)",
+            "Vaccination and Immunization",
+            "Politics and Government"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Bolsonaro, Jair (1955- )"
+         ],
+         "geo_facet":[
+            "Brazil",
+            "Manaus (Brazil)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brazil is facing a spike in Covid-19 deaths and an overwhelmed health care system. A more contagious variant of the virus may be part of the problem.",
+               "copyright":"Dado Galdieri for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/world/02virus-brazil-top/02virus-brazil-top-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/world/02virus-brazil-top/02virus-brazil-top-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/world/02virus-brazil-top/02virus-brazil-top-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/6fbb73a0-d889-52bf-a3c2-ee403f67bbf9",
+         "url":"https://www.nytimes.com/2021/03/04/us/politics/marine-corps-black-general.html",
+         "id":100000007636037,
+         "asset_id":100000007636037,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-04 23:43:17",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"United States Defense and Military Forces;Black People;Discrimination;United States Politics and Government;Content Type: Personal Profile;Henderson, Anthony M;United States Marine Corps",
+         "column":null,
+         "byline":"By Helene Cooper",
+         "type":"Article",
+         "title":"Passed Over 3 Times, a Black Marine Colonel Is Being Promoted to General",
+         "abstract":"The promotion could set Col. Anthony Henderson on a path to becoming the first Black four-star Marine general. Only 25 African-Americans in the Marines have reached general in any form.",
+         "des_facet":[
+            "United States Defense and Military Forces",
+            "Black People",
+            "Discrimination",
+            "United States Politics and Government",
+            "Content Type: Personal Profile"
+         ],
+         "org_facet":[
+            "United States Marine Corps"
+         ],
+         "per_facet":[
+            "Henderson, Anthony M"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Col. Anthony Henderson, a combat-tested Iraq and Afghanistan veteran, is being promoted to brigadier general.",
+               "copyright":"Lance Cpl. Tyler Byther/United States Marine Corps.",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/4military-race/4military-race-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/4military-race/4military-race-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/us/4military-race/4military-race-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/a0bf8cb3-ba3b-5c14-8c8e-857907b5c624",
+         "url":"https://www.nytimes.com/2021/03/02/books/dr-seuss-mulberry-street.html",
+         "id":100000007631710,
+         "asset_id":100000007631710,
+         "source":"New York Times",
+         "published_date":"2021-03-02",
+         "updated":"2021-03-04 06:59:13",
+         "section":"Books",
+         "subsection":"",
+         "nytdsection":"books",
+         "adx_keywords":"Books and Literature;Cartoons and Cartoonists;Discrimination;Race and Ethnicity;Geisel, Theodor Seuss;Dr Seuss Enterprises;PM (Newspaper);United States",
+         "column":null,
+         "byline":"By Jenny Gross",
+         "type":"Article",
+         "title":"6 Dr. Seuss Books Will No Longer Be Published Over Offensive Images",
+         "abstract":"The company that oversees the children’s author’s estate said that the titles contained depictions of groups that were “hurtful and wrong.”",
+         "des_facet":[
+            "Books and Literature",
+            "Cartoons and Cartoonists",
+            "Discrimination",
+            "Race and Ethnicity"
+         ],
+         "org_facet":[
+            "Dr Seuss Enterprises",
+            "PM (Newspaper)"
+         ],
+         "per_facet":[
+            "Geisel, Theodor Seuss"
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“And to Think That I Saw It on Mulberry Street” is one of six books by Dr. Seuss that will no longer be published.",
+               "copyright":"Steven Senne/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/multimedia/02xp-drseuss/02xp-drseuss-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/multimedia/02xp-drseuss/merlin_184463211_6e161eb5-c2a6-4af7-89ac-7427e48f975e-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/02/multimedia/02xp-drseuss/merlin_184463211_6e161eb5-c2a6-4af7-89ac-7427e48f975e-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/eb7be3e5-568c-50d7-96e6-4913939df02e",
+         "url":"https://www.nytimes.com/2021/03/05/us/amanda-gorman-security-guard.html",
+         "id":100000007640126,
+         "asset_id":100000007640126,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-06 13:23:17",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Poetry and Poets;Discrimination;Black People;Inaugurations;Gorman, Amanda;Biden, Joseph R Jr",
+         "column":null,
+         "byline":"By Michael Levenson",
+         "type":"Article",
+         "title":"Amanda Gorman Says Security Guard Confronted Her, Saying She Looked ‘Suspicious’",
+         "abstract":"Ms. Gorman, who recited a stirring poem at President Biden’s inauguration, said the guard had followed her as she walked home.",
+         "des_facet":[
+            "Poetry and Poets",
+            "Discrimination",
+            "Black People",
+            "Inaugurations"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Gorman, Amanda",
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Amanda Gorman delivering a poem at President Biden’s inauguration on Jan. 20.",
+               "copyright":"Erin Schaff/The New The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/multimedia/05xp--gorman/05xp--gorman--thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/multimedia/05xp--gorman/05xp--gorman--mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/05/multimedia/05xp--gorman/05xp--gorman--mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/3a7955cf-9d79-56c6-a1d4-899838a8e455",
+         "url":"https://www.nytimes.com/2021/03/04/us/harvard-slave-photos-renty.html",
+         "id":100000007637570,
+         "asset_id":100000007637570,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-05 23:41:08",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Suits and Litigation (Civil);Photography;Decisions and Verdicts;Slavery (Historical);Lanier, Tamara;Harvard University;Massachusetts",
+         "column":null,
+         "byline":"By Anemona Hartocollis",
+         "type":"Article",
+         "title":"Images of Slaves Are Property of Harvard, Not a Descendant, Judge Rules",
+         "abstract":"The woman who says the enslaved people are her ancestors plans to appeal the decision “about the patriarch of a family, a subject of bedtime stories.”",
+         "des_facet":[
+            "Suits and Litigation (Civil)",
+            "Photography",
+            "Decisions and Verdicts",
+            "Slavery (Historical)"
+         ],
+         "org_facet":[
+            "Harvard University"
+         ],
+         "per_facet":[
+            "Lanier, Tamara"
+         ],
+         "geo_facet":[
+            "Massachusetts"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Tamara Lanier sued Harvard University for ownership of daguerreotypes of slaves who she said were her ancestors.",
+               "copyright":"Karsten Moran for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/21/us/04harvard-slaves-2/20Slavephoto-2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/21/us/04harvard-slaves-2/04harvard-slaves-2-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/21/us/04harvard-slaves-2/04harvard-slaves-2-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/d2e0dc37-b9da-5121-b7f5-82b313f7742c",
+         "url":"https://www.nytimes.com/2021/03/05/style/modern-love-my-two-house-duffle-bag-life.html",
+         "id":100000007630608,
+         "asset_id":100000007630608,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-05 17:33:42",
+         "section":"Style",
+         "subsection":"",
+         "nytdsection":"style",
+         "adx_keywords":"Love (Emotion);Divorce, Separations and Annulments",
+         "column":null,
+         "byline":"By Natalie Muñoz",
+         "type":"Article",
+         "title":"My Two-House, Duffel-Bag Life",
+         "abstract":"When my parents divorced, I lost the link that held our family together. And then I found it.",
+         "des_facet":[
+            "Love (Emotion)",
+            "Divorce, Separations and Annulments"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brian Rea",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/fashion/07MODERN-DIVORCE/07MODERN-DIVORCE-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/fashion/07MODERN-DIVORCE/07MODERN-DIVORCE-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/fashion/07MODERN-DIVORCE/07MODERN-DIVORCE-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/66bd482b-826d-503f-8186-b6372aec4c02",
+         "url":"https://www.nytimes.com/2021/03/05/nyregion/woody-allen-manhattan.html",
+         "id":100000007630415,
+         "asset_id":100000007630415,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-05 12:39:54",
+         "section":"New York",
+         "subsection":"",
+         "nytdsection":"new york",
+         "adx_keywords":"Documentary Films and Programs;Allen, Woody;Farrow, Mia;Hemingway, Mariel;Lonstein, Shoshanna;Seinfeld, Jerry",
+         "column":null,
+         "byline":"By Ginia Bellafante",
+         "type":"Article",
+         "title":"Why My Teenage Self Gave Woody Allen a Pass",
+         "abstract":"The urbane paradise of “Manhattan” looks a lot different through the lens of the new HBO documentary “Allen v. Farrow.”",
+         "des_facet":[
+            "Documentary Films and Programs"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Allen, Woody",
+            "Farrow, Mia",
+            "Hemingway, Mariel",
+            "Lonstein, Shoshanna",
+            "Seinfeld, Jerry"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A comedy about a 42-year-old man sleeping with a 17-year-old girl is not a love story.",
+               "copyright":"United Artists, via Photofest",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/nyregion/07BIG/07BIG-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/nyregion/07BIG/07BIG-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/07/nyregion/07BIG/07BIG-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/30b2891e-5170-5181-bab4-22ea06210588",
+         "url":"https://www.nytimes.com/2021/03/05/world/cdc-masks-dining-virus.html",
+         "id":100000007638428,
+         "asset_id":100000007638428,
+         "source":"New York Times",
+         "published_date":"2021-03-05",
+         "updated":"2021-03-06 01:48:17",
+         "section":"World",
+         "subsection":"",
+         "nytdsection":"world",
+         "adx_keywords":"Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Deaths (Fatalities);Centers for Disease Control and Prevention;United States",
+         "column":null,
+         "byline":"By Roni Caryn Rabin",
+         "type":"Article",
+         "title":"The C.D.C. links restaurant dining and a lack of mask mandates to the virus’s spread in the U.S.",
+         "abstract":"As officials in Texas and Mississippi lifted statewide mask requirements, researchers at the Centers for Disease Control and Prevention offered a new study with fresh evidence of masks’ importance.",
+         "des_facet":[
+            "Coronavirus Risks and Safety Concerns",
+            "Coronavirus (2019-nCoV)",
+            "Deaths (Fatalities)"
+         ],
+         "org_facet":[
+            "Centers for Disease Control and Prevention"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "media":[
+            
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/d1d28f2c-993f-5085-b514-1b050560f2bf",
+         "url":"https://www.nytimes.com/2021/03/03/health/covid-skin-side-effects.html",
+         "id":100000007635015,
+         "asset_id":100000007635015,
+         "source":"New York Times",
+         "published_date":"2021-03-03",
+         "updated":"2021-03-03 18:27:49",
+         "section":"Health",
+         "subsection":"",
+         "nytdsection":"health",
+         "adx_keywords":"Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-healthcare;Skin;Medicine and Health;Massachusetts General Hospital;Moderna Inc;New England Journal of Medicine",
+         "column":null,
+         "byline":"By Denise Grady",
+         "type":"Article",
+         "title":"A Few People Report Delayed Skin Reactions to the Covid Vaccine",
+         "abstract":"Doctors are reporting additional, minor symptoms that appear several days after people have received their shots.",
+         "des_facet":[
+            "Vaccination and Immunization",
+            "Coronavirus (2019-nCoV)",
+            "your-feed-healthcare",
+            "Skin",
+            "Medicine and Health"
+         ],
+         "org_facet":[
+            "Massachusetts General Hospital",
+            "Moderna Inc",
+            "New England Journal of Medicine"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"By sharing the information about reactions, doctors said they wanted to help prevent the needless use of antibiotics and to ease patients’ worries about getting their second vaccine shot.",
+               "copyright":"Mike Kai Chen for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/01/science/01VIRUS-VACCINE-SKIN1/01VIRUS-VACCINE-SKIN1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/01/science/01VIRUS-VACCINE-SKIN1/01VIRUS-VACCINE-SKIN1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/04/01/science/01VIRUS-VACCINE-SKIN1/01VIRUS-VACCINE-SKIN1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/ea614a1d-d70f-5fd3-8cb2-59a8dd16e2cf",
+         "url":"https://www.nytimes.com/2021/03/04/health/covid-vaccine-johnson-and-johnson-rollout.html",
+         "id":100000007632474,
+         "asset_id":100000007632474,
+         "source":"New York Times",
+         "published_date":"2021-03-04",
+         "updated":"2021-03-06 11:14:51",
+         "section":"Health",
+         "subsection":"",
+         "nytdsection":"health",
+         "adx_keywords":"Vaccination and Immunization;States (US);Income Inequality;Coronavirus (2019-nCoV);Johnson \u0026 Johnson",
+         "column":null,
+         "byline":"By Noah Weiland",
+         "type":"Article",
+         "title":"One and Done: Why People Are Eager for Johnson \u0026 Johnson’s Vaccine",
+         "abstract":"Johnson \u0026 Johnson’s one-shot vaccine is allowing states to rethink distribution, even as health officials and experts worry some will view it as inferior.",
+         "des_facet":[
+            "Vaccination and Immunization",
+            "States (US)",
+            "Income Inequality",
+            "Coronavirus (2019-nCoV)"
+         ],
+         "org_facet":[
+            "Johnson \u0026 Johnson"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jessica Hill/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-JJSTATES1b/04VIRUS-JJSTATES1b-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-JJSTATES1b/04VIRUS-JJSTATES1b-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2021/03/04/science/04VIRUS-JJSTATES1b/04VIRUS-JJSTATES1b-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      }
+   ]
+},
+    "httpStatus":200
+}
